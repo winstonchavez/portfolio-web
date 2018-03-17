@@ -10,11 +10,11 @@
 
   <div id="navbarExampleTransparentExample" class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item" href="">
+      <router-link class="navbar-item" to="/">
         {{$t('home')}}
-      </a>
+      </router-link>
       <div class="navbar-item has-dropdown is-hoverable">
-        <a router-link class="navbar-link" href="">
+        <a class="navbar-link">
           {{$t('about')}}
         </a>
         <div class="navbar-dropdown is-boxed">
