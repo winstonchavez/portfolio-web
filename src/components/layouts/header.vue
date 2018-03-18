@@ -21,15 +21,15 @@
           <router-link class="navbar-item" to="/professional-profile">
             {{$t('professionalProfile')}}
           </router-link>
-          <a class="navbar-item" href="">
+          <router-link class="navbar-item" to="/education">
             {{$t('educationalAchievements')}}
-          </a>
-          <a class="navbar-item" href="">
+          </router-link>
+          <router-link class="navbar-item" to="/skills">
             {{$t('technicallSkills')}}
-          </a>
-          <a class="navbar-item" href="">
+          </router-link>
+          <router-link class="navbar-item" to="/certifications">
             {{$t('certifications')}}
-          </a>
+          </router-link>
           <a class="navbar-item" href="">
             {{$t('hobbies')}}
           </a>

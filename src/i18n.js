@@ -17,7 +17,7 @@ const messages = {
 		pitagorasSentence : "With order and time, it's foun the secret to do it all, and do it well.",
 		myJob : "Software developer in Ademia.",
 		professionalProfile : "Professional profile",
-		educationalAchievements : "Educational achievements",
+		educationalAchievements : "Education",
 		technicallSkills : "Technical skills",
 		certifications : "Certifications",
 		hobbies : "Hobbies",
@@ -35,6 +35,8 @@ const messages = {
 		_professional_profile : "I'm a very organized, creative, and analytical person. Goal oriented, eager to learn, and able take on challengues. Decree to contribute with my experience and knownledge on future projects. I'm interested on web developments focused on education, music, sports, video games, VR, internet of things, robotic, and video-games. I feel confident working with tested tools and standards (like ASP.NET of Microsoft), but feel excited when work a new tool to (a new javascript framework for example).",
 		can_do : "What i can do?",
 		what_i_can_do : "Desarrollo y mantenimiento de software, desarrollo de servicios web API REST JSON con las tecnologias PHP, C# ASP.NET, y Ruby on rails. Desarrollo de aplicaciones web con Angular JS y Vue JS. Desarrollo de paginas web responsivas con HTML5, CSS3, Bootstrap, y JQuery. Gestionar, y versionar el codigo fuente de los proyectos de manera eficiente y segura con GIT. Gestion de proyectos sencillos. Dominio del ingles tecnico.",
+		professional_title : "TI Engineer",
+		university : "Los Altos Mirandinos University"
 	},
 	es: {
 		home: "Inicio",
@@ -49,7 +51,7 @@ const messages = {
 		pitagorasSentence : "Con orden y tiempo se encuentra el secreto de hacerlo todo, y de hacerlo bien.",
 		myJob : "Desarrollador de software en Ademia.",
 		professionalProfile : "Perfil profesional",
-		educationalAchievements : "Logros educativos",
+		educationalAchievements : "Educacion",
 		technicallSkills : "Habilidades tecnicas",
 		certifications : "Certificaciones",
 		hobbies : "Hobbies",
@@ -67,6 +69,8 @@ const messages = {
 		_professional_profile : "Soy una persona muy organizada, creativa, y analitica. Orientado al logro, con ganas de aprender, y dispuesto a asumir retos. Dipuesto a contribuir en nuevos proyectos con mis conocimientos y experiencia. Estoy interesado en desarrollos basados en proyectos educativos, de musica, deportes, VR, internet de las cosas, robotica y video juegos. Me siento comodo trabajando con tecnologias y estandares probados por la indutria como ASP.NET de microsoft, pero siento una emocion especial al trabajar con una nueva herramienta, como un nuevo framework de javascript.",
 		can_do : "Que puedo hacer?",
 		what_i_can_do : "Desarrollo y mantenimiento de software, desarrollo de servicios web API REST JSON con las tecnologias PHP, C# ASP.NET, y ruby on rails. Desarrollo de aplicaciones web con Angular JS y Vue JS. Desarrollo de paginas web responsivas con HTML5, CSS3, Bootstrap, y JQuery. Gestionar, y versionar el codigo fuente de los proyectos de manera eficiente y segura con GIT. Gestion de proyectos sencillos. Dominio del ingles tecnico.",
+		professional_title : "Ingeniero en informatica",
+		university : "Universidad de Los Altos Mirandinos"
 	}
 }
 

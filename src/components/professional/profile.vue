@@ -56,7 +56,7 @@
 		      <div class="media-content">
 		        <h3>{{$t('can_do')}}</h3>
 			        <p>
-			          {{$t('what_i_can_do')}}
+			          		Desarrollo y mantenimiento de software, desarrollo de servicios web API REST JSON con las tecnologias PHP, C# ASP.NET, y Ruby on rails. Desarrollo de aplicaciones web con Angular JS y Vue JS. Desarrollo de paginas web responsivas con HTML5, CSS3, Bootstrap, y JQuery. Gestionar, y versionar el codigo fuente de los proyectos de manera eficiente y segura con GIT. Despliegue de aplicaciones web en diversos ambientes, desarrollo y administracion de bases de datos apegado a los estandares de la insdustria, programacion PL SQL.Gestion de proyectos sencillos. Dominio del ingles tecnico. Trabajar en equipo con metodologias agiles como SCRUM.
 			        </p>
 		      </div>
 		    </div>
@@ -101,6 +101,9 @@
 				    		<li>
 				    			Ruby and Ruby on Rails
 				    		</li>
+				    		<li>
+				    			PL SQL
+				    		</li>
 				    	</ul>
 				    </li>
 				    <li>
@@ -125,6 +128,14 @@
 				    		</li>
 				    		<li>
 				    			Transactions, PL SQL.
+				    		</li>
+				    	</ul>
+				    </li>
+				    <li>
+				    	Version control
+				    	<ul>
+				    		<li>
+				    			GIT (GitHub, Bitbucket, GitLab).
 				    		</li>
 				    	</ul>
 				    </li>
