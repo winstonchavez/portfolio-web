@@ -10,7 +10,7 @@ import i18n from '@/i18n' //International languages
 
 Vue.use(VueRouter)
 
-const router = new VueRouter( { routes: routes, mode: 'history' } )
+const router = new VueRouter( { routes: routes } )
 
 new Vue({
   el: '#app',
