@@ -15,7 +15,7 @@
 				</div>
 				<div class="card-content">
 					<p align="justify">
-						Desarrollo de programas de consola y fundamentos de POO. 2014
+						Creacion de programas de consola y fundamentos de POO. 2014
 					</p>
 				</div>
 			</div>
