@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     <pw-header></pw-header>
     <pw-banner></pw-banner>
     <!---<pw-menu></pw-menu>---->

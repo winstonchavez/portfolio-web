@@ -2,8 +2,17 @@
 	<div class="box">
 	  <article class="media">
 	  	<div class="content">
-	  		<div class="media-content">
-	  			<ul>
+	  		<div class="media columns is-mobile">
+		      <div class="media-left column">
+		        <figure aling="center" class="image">
+		          <img src="src/assets/worksite.jpg">
+		        </figure>
+		      </div>
+		    </div>
+	      	<div class="media columns is-mobile">
+		      <div class="media-content column">
+
+		      	<ul>
 	  				<li>
 	  					<h2>
 	  						{{$t('professional_title')}}
@@ -15,8 +24,10 @@
 	  					</ul>
 	  				</li>
 	  			</ul>
-	  		</div>
-	  	</div>
+
+		      </div>
+		    </div>
+	      </div>
 	  </article>
 	</div>
 </template>

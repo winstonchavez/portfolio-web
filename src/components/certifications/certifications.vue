@@ -10,7 +10,7 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/c++.png">
 					</figure>
 				</div>
 				<div class="card-content">
@@ -29,7 +29,7 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/Ethical-hacking.jpg">
 					</figure>
 				</div>
 				<div class="card-content">
@@ -48,7 +48,7 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/git.png">
 					</figure>
 				</div>
 				<div class="card-content">
@@ -67,7 +67,7 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/pmi.png">
 					</figure>
 				</div>
 				<div class="card-content">
@@ -88,7 +88,7 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/ingles.png">
 					</figure>
 				</div>
 				<div class="card-content">
@@ -107,7 +107,7 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/vuejs.png">
 					</figure>
 				</div>
 				<div class="card-content">
@@ -126,7 +126,7 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/csharp.png">
 					</figure>
 				</div>
 				<div class="card-content">
@@ -145,12 +145,12 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/profile.jpg">
+					  <img src="src/assets/proximamente.jpg">
 					</figure>
 				</div>
 				<div class="card-content">
 					<p align="justify">
-						lorem ipsum 
+						Desarrollo de aplicaciones web profesionales con el framework de Microsoft, Inteligencia artificial, buenas practicas, y deploy. 
 					</p>
 				</div>
 			</div>

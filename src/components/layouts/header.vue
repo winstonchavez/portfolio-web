@@ -1,14 +1,6 @@
 <template>
 <nav class="navbar is-dark">
-  <div class="navbar-brand">
-    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-  </div>
-
-  <div id="navbarExampleTransparentExample" class="navbar-menu">
+  <div id="navbarExampleTransparentExample" class="navbar-menu is-active">
     <div class="navbar-start">
       <router-link class="navbar-item" to="/">
         {{$t('home')}}
@@ -30,7 +22,7 @@
           <router-link class="navbar-item" to="/certifications">
             {{$t('certifications')}}
           </router-link>
-          <a class="navbar-item" href="">
+          <!--<a class="navbar-item" href="">
             {{$t('hobbies')}}
           </a>
           <hr class="navbar-divider">
@@ -39,12 +31,12 @@
           </a>
           <a class="navbar-item" href="">
             {{$t('posts')}}
-          </a>
+          </a>-->
         </div>
       </div>
     </div>
 
-    <div class="navbar-end">
+    <div align="center" class="navbar-end">
     	<a class="navbar-item" @click="translate('es')">
     		<figure class="image is-32x32">
 			  <img src="src/assets/spain.png">
@@ -75,7 +67,7 @@ export default {
 <style lang="scss" scoped>
 	
 	img {
-		border-radius:50%;
+		//border-radius:50%;
 	}
 
 </style>
