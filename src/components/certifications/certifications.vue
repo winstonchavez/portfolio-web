@@ -145,12 +145,90 @@
 				</div>
 				<div align="center" class="card-image">
 					<figure class="image is-4by3">
-					  <img src="src/assets/proximamente.jpg">
+					  <img src="src/assets/aspnet.png">
 					</figure>
 				</div>
 				<div class="card-content">
 					<p align="justify">
 						Desarrollo de aplicaciones web profesionales con el framework de Microsoft, Inteligencia artificial, buenas practicas, y deploy. 
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="columns">
+		<div class="column">
+			<div class="card">
+				<div class="card-header">
+					<p class="card-header-title">
+						Angular JS Profesional
+					</p>
+				</div>
+				<div align="center" class="card-image">
+					<figure class="image is-4by3">
+					  <img src="src/assets/angularjs.png">
+					</figure>
+				</div>
+				<div class="card-content">
+					<p align="justify">
+						Desarrollo de SPA con angular.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<div class="card-header">
+					<p class="card-header-title">
+						Diseño de Interfaces y UX
+					</p>
+				</div>
+				<div align="center" class="card-image">
+					<figure class="image is-4by3">
+					  <img src="src/assets/interfaces.png">
+					</figure>
+				</div>
+				<div class="card-content">
+					<p align="justify">
+						Diseño de Interfaces y experiencias de usuario.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<div class="card-header">
+					<p class="card-header-title">
+						PWA con Angular
+					</p>
+				</div>
+				<div align="center" class="card-image">
+					<figure class="image is-4by3">
+					  <img src="src/assets/pwa.png">
+					</figure>
+				</div>
+				<div class="card-content">
+					<p align="justify">
+						Desarrollo de PWA con angular 6.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="column">
+			<div class="card">
+				<div class="card-header">
+					<p class="card-header-title">
+						IONIC Profesional
+					</p>
+				</div>
+				<div align="center" class="card-image">
+					<figure class="image is-4by3">
+					  <img src="src/assets/ionic.png">
+					</figure>
+				</div>
+				<div class="card-content">
+					<p align="justify">
+						Desarrollo de apps hibridas con IONIC.
 					</p>
 				</div>
 			</div>

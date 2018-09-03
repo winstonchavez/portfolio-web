@@ -38,9 +38,6 @@
 				    			PHP Laravel and CodeIgniter
 				    		</li>
 				    		<li>
-				    			Ruby and Ruby on Rails
-				    		</li>
-				    		<li>
 				    			PL SQL
 				    		</li>
 				    	</ul>
@@ -55,7 +52,21 @@
 				    			CSS, SASS, Bootstrap, Bulma, responsive design
 				    		</li>
 				    		<li>
-				    			Javascript JQuery, Node Js, Angular JS, Vue JS, Webpack, Babel
+				    			JQuery
+				    		</li>
+							<li>
+				    			Angular JS
+				    		</li>
+							<li>
+				    			VUE JS, and NUXT JS
+				    		</li>
+				    	</ul>
+				    </li>
+					<li>
+				    	Mobile
+				    	<ul>
+				    		<li>
+				    			IONIC.
 				    		</li>
 				    	</ul>
 				    </li>
@@ -67,6 +78,9 @@
 				    		</li>
 				    		<li>
 				    			Transactions, PL SQL.
+				    		</li>
+							<li>
+				    			DBA.
 				    		</li>
 				    	</ul>
 				    </li>

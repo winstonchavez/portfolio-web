@@ -49,6 +49,14 @@
 				    		</li>
 				    	</ul>
 				    </li>
+						<li>
+				    	{{$t('_experience4')}}
+				    	<ul>
+				    		<li>
+				    			{{$t('experience_description4')}}
+				    		</li>
+				    	</ul>
+				    </li>
 				</ul>
 		      </div>
 		    </div>
@@ -58,7 +66,10 @@
 		      <div class="media-content">
 		        <h3>{{$t('can_do')}}</h3>
 			        <p>
-			          		Desarrollo y mantenimiento de software, desarrollo de servicios web API REST JSON con las tecnologias PHP, C# ASP.NET, y Ruby on rails. Desarrollo de aplicaciones web con Angular JS y Vue JS. Desarrollo de paginas web responsivas con HTML5, CSS3, Bootstrap, y JQuery. Gestionar, y versionar el codigo fuente de los proyectos de manera eficiente y segura con GIT. Despliegue de aplicaciones web en diversos ambientes, desarrollo y administracion de bases de datos apegado a los estandares de la insdustria, programacion PL SQL.Gestion de proyectos sencillos. Dominio del ingles tecnico. Trabajar en equipo con metodologias agiles como SCRUM.
+			          Desarrollo de aplicaciones web (SPA, PWA), aplicaciones moviles hibridas,
+								servicios web, y bases de datos. Gestion y version de codigo fuente con GIT.
+								Despliegue de aplicaciones y servicios en diversos ambientes de cloud computing.
+								Gestion de proyectos agiles con metodologias como SCRUM, aplicando conceptos de PMI.
 			        </p>
 		      </div>
 		    </div>

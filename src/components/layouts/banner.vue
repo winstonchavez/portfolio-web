@@ -10,7 +10,7 @@
 	    		</div>
 	    		<div class="column is-three-quarter">
 	    			<h1 class="title">
-				        WIZ CHAVEZ
+				        WJCG
 				    </h1>
 				    <h2 class="subtitle">
 				        {{$t('ownSentence')}}
